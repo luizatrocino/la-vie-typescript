@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1654038599772" clover="3.2.0">
+  <project timestamp="1654038599772" name="All files">
+    <metrics statements="22" coveredstatements="21" conditionals="18" coveredconditionals="14" methods="13" coveredmethods="11" elements="53" coveredelements="46" complexity="0" loc="22" ncloc="22" packages="2" files="2" classes="2"/>
+    <package name="dist.infrastructure.externals.viaCep">
+      <metrics statements="18" coveredstatements="17" conditionals="18" coveredconditionals="14" methods="11" coveredmethods="9"/>
+      <file name="ViaCep.js" path="C:\Users\Luiza\Desktop\projetos-gama\la-vie-typescript\dist\infrastructure\externals\viaCep\ViaCep.js">
+        <metrics statements="18" coveredstatements="17" conditionals="18" coveredconditionals="14" methods="11" coveredmethods="9"/>
+        <line num="2" count="1" type="cond" truecount="2" falsecount="1"/>
+        <line num="3" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="4" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="cond" truecount="2" falsecount="1"/>
+        <line num="12" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.infrastructure.externals.viaCep">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="ViaCep.ts" path="C:\Users\Luiza\Desktop\projetos-gama\la-vie-typescript\src\infrastructure\externals\viaCep\ViaCep.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
